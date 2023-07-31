@@ -1,4 +1,4 @@
-# Developing Zygisk Modules
+merge # Developing Zygisk Modules
 
 This repository hosts a template zygisk module for developers to start developing Zygisk modules. Before developing Zygisk modules, you should first check out the official documentation for [Magisk Modules](https://topjohnwu.github.io/Magisk/guides.html). Do not fork this repository for your new module; either manually clone this repository, or press the "Use this template" button in the GitHub UI.
 
